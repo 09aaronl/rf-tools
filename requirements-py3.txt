@@ -1,0 +1,9 @@
+samtools=1.15
+bowtie2=2.4.5
+bedtools=2.30.0
+cutadapt=4.0
+viennarna=2.5.0
+rnastructure=6.3
+perl-xml-libxml=2.0207
+perl-dbd-mysql=4.050
+perl-config-simple=4.58
